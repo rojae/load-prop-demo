@@ -1,0 +1,7 @@
+spring:
+    datasource:
+        password: password
+        url: jdbc:h2:dev
+        username: SA
+messenger:
+    list: KAKAOTALK,SLACK,LINE,TELEGRAM
